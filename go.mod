@@ -1,4 +1,4 @@
-module lmdb-cli
+module github.com/DarKnight24/lmdb-cli
 
 go 1.16
 
